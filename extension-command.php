@@ -12,3 +12,4 @@ if ( file_exists( $autoload ) ) {
 WP_CLI::add_command( 'plugin', 'Plugin_Command' );
 WP_CLI::add_command( 'theme', 'Theme_Command' );
 WP_CLI::add_command( 'theme mod', 'Theme_Mod_Command' );
+// Test
